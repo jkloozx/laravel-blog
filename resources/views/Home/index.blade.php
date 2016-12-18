@@ -2,8 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>后盾个人博客</title>
-<meta name="keywords" content="个人博客模板,博客模板" />
+<title>Jkloozx个人博客</title>
+<meta name="keywords" content="jkloozx博客模板,博客模板" />
 <meta name="description" content="寻梦主题的个人博客模板，优雅、稳重、大气,低调。" />
 <link href="public/css/base.css" rel="stylesheet">
 <link href="public/css/index.css" rel="stylesheet">
